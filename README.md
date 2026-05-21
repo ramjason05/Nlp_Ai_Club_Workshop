@@ -1,5 +1,10 @@
 # 🎬 NLP Workshop — AI Club Datathon Prep
 
+## File Structrue
+- Data / IMDB_Dataset we will be using today
+- NLP_Workshop_Host.ipynb = Complete Jupyter Notebook to see full code if you get lost!
+- NLP_Workshop_User.ipynb = Student version which you are going to code on directly to help you learn
+
 A hands-on workshop introducing Natural Language Processing (NLP) 
 using the IMDB Movie Reviews dataset. Built for the AI Club Datathon 
 to prepare members for working with real-world text datasets.
