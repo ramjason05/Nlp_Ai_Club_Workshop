@@ -27,12 +27,14 @@ no installation needed!
 
 ## 📦 Dataset
 This workshop uses the IMDB Movie Reviews dataset from Kaggle.
-You can either download from kaggle or the dataset/ folder on the repo!
-Once You download:
-    1.Go to Google Drive
-    2.Create a folder called the dataset, ex: "IMBD Reviews"
-    3.Upload the csv, then go to the collab to continue to the next steps
-🔗 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+You can either download from Kaggle or the `dataset/` folder on the repo!
+
+Once you download:
+1. Go to Google Drive
+2. Create a folder for the dataset, ex: `"IMDB Reviews"`
+3. Upload the CSV, then go to the Colab to continue the next steps
+
+🔗 [IMDB Dataset on Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 ## 👨‍💻 Author
 Jason Ramirez — AI Club @ Datathon 2026
