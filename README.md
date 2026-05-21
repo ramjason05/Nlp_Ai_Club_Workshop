@@ -23,7 +23,7 @@ to prepare members for working with real-world text datasets.
 Click the button below to open the notebook in Google Colab — 
 no installation needed!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramjason05/Nlp_Ai_Club_Workshop/blob/main/NLP_Workshop_Host.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramjason05/Nlp_Ai_Club_Workshop/blob/main/NLP_Workshop_User.ipynb)
 
 ## 📦 Dataset
 This workshop uses the IMDB Movie Reviews dataset from Kaggle.
